@@ -21,9 +21,10 @@
 # The ordering of the records in this document determines the ordering of the
 # topic groups and topics on the main page.
 ---
-Name: Red Hat Template Test
-Dir: ra_templates
+Name: Style Guide and Template
+Dir: ra-templates
 Topics:
-  - Name: Welcome
+  - Name: Style Guide and Template
     File: ra-template-v2
-
+  - Name: Comments and Feedback
+    File: comments.adoc
